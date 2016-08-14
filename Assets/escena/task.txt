@@ -1,0 +1,7 @@
+-arreglar movimiento y lag
+-cuando dispara se veA en mapa
+-no renderizar luz n camara enemigo--DONE
+-si golpea la bomba el tanque y retrocede no explota
+-añadir fuerza retroceso tanque al disparar
+-tubos de agua q sean tubos
+-dividir el menu en otro scrpt
