@@ -15,12 +15,17 @@ public class bombas : MonoBehaviour {
     bombatriger btr;
     int cont;
     void Start () {
+        //Michael testing in da house
+
+
+
+
         cont = 0;
         pruebaBomba.GetComponent<MeshRenderer>().enabled = false;
         pruebaEmbellecedor.GetComponent<MeshRenderer>().enabled = false;
         btr = pruebaBomba.GetComponent<bombatriger>();
     }
-	
+
 	// Update is called once per frame
 	void Update () {
         if (cont < 3)
